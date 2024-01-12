@@ -8,9 +8,6 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.example.casess.dao.CasesRepo;
-import com.example.casess.modal.Cases;
-
 @SpringBootTest
 class CasessApplicationTests {
 
